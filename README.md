@@ -89,7 +89,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Contact
 
-Sahil Rahman
+Anirban Halder
 
 LinkedIn: https://www.linkedin.com/in/anirban-halder-b252a7258/
 

@@ -28,6 +28,3 @@ def index():
     return render_template("indexi.html", form=form, s=s)
 
 
-# Calling out the entry point
-if __name__ == '__main__':
-    app.run(debug=True)
